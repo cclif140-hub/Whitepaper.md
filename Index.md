@@ -56,10 +56,10 @@ This logic tree organizes sampled forum discussions from the Third-Party Softwar
     ├── Appimage/  
     │   ├── Loading  
     │   └── Startup  
-    ├── Python /  
-       ├── Installation  
-    │   ├── Updating  
-    │   └── Removal  
+    ├── Python/
+	│   ├── Installation
+	│   ├── Updating
+	│   └── Removal
     ├── FireFox /  
     │   ├── Installation  
     │   ├── Updating  
